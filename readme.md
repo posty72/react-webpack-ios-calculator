@@ -8,3 +8,7 @@ This project demonstrates how to use React components with Webpack. It also uses
 ### Installation
 
 `npm i`
+
+## Build
+
+`./node_modules/.bin/webpack -d`
