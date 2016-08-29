@@ -1,11 +1,10 @@
 # iOS Calculator with React
-## Forked from http://codepen.io/mjijackson/pen/xOzyGX
+> Forked from http://codepen.io/mjijackson/pen/xOzyGX
 
 This project demonstrates how to use React components with Webpack. It also uses SASS loaders to dynamically load styles only as they are required in each React component.
 
 
 
-## Installation
+### Installation
 
 `npm i`
-
