@@ -3,3 +3,8 @@ node_modules
 
 # OS
 .DS_Store
+
+# Build target
+src/client/public/*.js
+src/client/public/*.css
+src/client/public/*.map
